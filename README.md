@@ -77,9 +77,9 @@
 * **Cài đặt các extension cần thiết.**
    <img src="https://github.com/user-attachments/assets/ff1935fb-0240-4d00-9a75-606a46463123" alt="image6" width="914">
 * **Viết mã, chạy thử, debug.**
-   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
+   
 ### 2.3 Tạo tài khoản GitHub
-
+   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
 1. Vào trang chủ GitHub. 
    
 2. Đăng ký tài khoản.
