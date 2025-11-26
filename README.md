@@ -79,13 +79,12 @@
 * **Viết mã, chạy thử, debug.**
    
 ### 2.3 Tạo tài khoản GitHub
-   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
 1. Vào trang chủ GitHub. 
-   <img src="https://github.com/user-attachments/assets/d6d22710-ce68-4a7c-ad50-a5da2c580c06" alt="image8" width="749">
+   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
 2. Đăng ký tài khoản.
-   
+   <img src="https://github.com/user-attachments/assets/d6d22710-ce68-4a7c-ad50-a5da2c580c06" alt="image8" width="749">
 3. Xác minh email.
-
+    
 ### 2.4 Sử dụng GitHub cơ bản
 
 * **Tạo repository:**
@@ -176,19 +175,19 @@
 
 * **B1:** Bấm vào hình đầu người (**Accounts**).
 * **B2:** Chọn **“Sign in with GitHub”**.
-![alt text](image-8.png)
+    <img src="https://github.com/user-attachments/assets/671dd1af-5d49-4179-951e-93c914639d38" alt="image9" width="1179">
 * **B3:** Bấm **“Continue”**.
-![alt text](image-9.png)
+    <img src="https://github.com/user-attachments/assets/184ad5e3-12da-4ba1-86cb-6439f6a2a9ca" alt="image10" width="1340">  
 * **B4:** Đăng nhập bằng email.
 * **B5:** Bấm **“Authorize Visual Studio Code”**.
-![alt text](image-10.png)
+    <img src="https://github.com/user-attachments/assets/5c6491f8-a584-4853-9396-ef4ce540894f" alt="image11" width="906">
 
 ---
 
 ## 5. Tải từ VSCode lên GitHub
 
 * **B1:** Làm như hình.
-![alt text](image-11.png)
+    <img src="https://github.com/user-attachments/assets/98e3632e-4f33-4dc5-bd56-e2a66753cf8b" alt="image18" width="1178">
 * **B2:** Đặt tên tùy ý.
 ![alt text](image-12.png)
 * **B3:** Bấm **“Commit”**.
