@@ -200,11 +200,11 @@
 ## 6. Tải từ GitHub về VSCode
 
 * **B1:** Bấm **“Clone Repository”**.
-![alt text](image-15.png)
+    <img src="https://github.com/user-attachments/assets/89fd3a70-7d35-40da-9099-80b9f855404c" alt="image22" width="1182">
 * **B2:** Sao chép URL của repository chứa file cần tải về máy.
-![alt text](image-16.png)
+    <img src="https://github.com/user-attachments/assets/607b85e7-3474-4266-a77b-74e3dbe526a0" alt="image23" width="1348">
 * **B3:** Nhập URL đã sao chép.
-![alt text](image-17.png)
+    <img src="https://github.com/user-attachments/assets/d01968c7-056f-4e76-8f10-9e2913e4cb15" alt="image24" width="1189">
 * **B4:** Chọn nơi lưu trữ khi tải về và bắt đầu tải.
 
 ### Lưu ý:
@@ -212,10 +212,9 @@
 * Nếu repository không phải của mình thì nên **“Fork”** trước khi tải về máy.
 * **Các bước Fork như sau:**
     * **B1:** Bấm **“Fork”**.
-    ![alt text](image-18.png)
+    <img src="https://github.com/user-attachments/assets/03ef901e-79eb-403f-b5ca-aa40179eb58e" alt="image25" width="1336">
     * **B2:** Đặt tên và bấm **“Create fork”**.
-    ![alt text](image-19.png)
-
+    <img src="https://github.com/user-attachments/assets/38cc7b70-3461-4c4c-94ac-a1ca41db80b6" alt="image26" width="833">
 ---
 
 ## 7. Cách tạo và tham gia vào dự án mã nguồn mở
