@@ -65,24 +65,25 @@
    <img src="https://github.com/user-attachments/assets/fd9b321e-efb4-45cf-b977-db41bed21271" alt="image2" width="1090" />
 4. Tải xuống và cài đặt bình thường. 
    <img src="https://github.com/user-attachments/assets/6bf4bb1a-c9bb-44fd-938d-b635a6733965" alt="image3" width="430">
+   <img src="https://github.com/user-attachments/assets/3487dd09-0a09-44d7-8152-78e8c7f8a2e8" alt="image4" width="692">
 ### 2.2 Sử dụng Visual Studio Code
 
 * **Mở VS Code.**
-   <img src="https://github.com/user-attachments/assets/3487dd09-0a09-44d7-8152-78e8c7f8a2e8" alt="image4" width="692">
+   <img src="https://github.com/user-attachments/assets/fd700d65-afd2-492e-ae50-44188ea5bb39" alt="image5" width="1091">
 * **Tạo hoặc mở thư mục dự án:**
     * **Bước 1:** Chọn **File** > **New Folder** (hoặc **File** > **New Workspace** tùy phiên bản).
     * **Bước 2:** Tạo một thư mục mới cho dự án của bạn và đặt tên cho nó.
     * **Bước 3:** Sau khi tạo thư mục, bạn có thể mở nó bằng cách chọn **File** > **Open Folder** và chọn thư mục vừa tạo.
 * **Cài đặt các extension cần thiết.**
-   <img src="https://github.com/user-attachments/assets/fd700d65-afd2-492e-ae50-44188ea5bb39" alt="image5" width="1091">
+   <img src="https://github.com/user-attachments/assets/ff1935fb-0240-4d00-9a75-606a46463123" alt="image6" width="914">
 * **Viết mã, chạy thử, debug.**
-
+   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
 ### 2.3 Tạo tài khoản GitHub
 
 1. Vào trang chủ GitHub. 
-   <img src="https://github.com/user-attachments/assets/ff1935fb-0240-4d00-9a75-606a46463123" alt="image6" width="914">
+   
 2. Đăng ký tài khoản.
-   <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
+   
 3. Xác minh email.
 
 ### 2.4 Sử dụng GitHub cơ bản
