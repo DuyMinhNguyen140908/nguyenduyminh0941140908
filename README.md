@@ -62,7 +62,7 @@
 2. Bấm vào **Download**
    <img width="1756" src="https://github.com/user-attachments/assets/1dee1d40-d2eb-451f-a8d0-b4938f7a3cda" />
 3. Chọn phiên bản phù hợp với hệ điều hành (Windows, Linux, Mac).
-![alt text](image-1.png)
+   <img width="1090" src="https://github.com/user-attachments/assets/fd9b321e-efb4-45cf-b977-db41bed21271" />
 4. Tải xuống và cài đặt bình thường. 
 ![alt text](image-2.png)
 ![alt text](image-3.png)
