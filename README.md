@@ -60,7 +60,8 @@
 
 1. Truy cập trang chủ Visual Studio Code. 
 2. Bấm vào **Download**
-<img width="1756" height="649" alt="image1" src="https://github.com/user-attachments/assets/1dee1d40-d2eb-451f-a8d0-b4938f7a3cda" />
+2. Bấm vào **Download**  
+   <img width="1756" src="https://github.com/user-attachments/assets/1dee1d40-d2eb-451f-a8d0-b4938f7a3cda" />
 3. Chọn phiên bản phù hợp với hệ điều hành (Windows, Linux, Mac).
 ![alt text](image-1.png)
 4. Tải xuống và cài đặt bình thường. 
