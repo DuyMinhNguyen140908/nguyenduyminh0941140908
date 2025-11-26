@@ -60,12 +60,11 @@
 
 1. Truy cập trang chủ Visual Studio Code. 
 2. Bấm vào **Download**
-   <img width="1756" src="https://github.com/user-attachments/assets/1dee1d40-d2eb-451f-a8d0-b4938f7a3cda" />
+   <img src="https://github.com/user-attachments/assets/1dee1d40-d2eb-451f-a8d0-b4938f7a3cda" alt="image1" width="1756" />
 3. Chọn phiên bản phù hợp với hệ điều hành (Windows, Linux, Mac).
-   <img width="1090" src="https://github.com/user-attachments/assets/fd9b321e-efb4-45cf-b977-db41bed21271" />
+   <img src="https://github.com/user-attachments/assets/fd9b321e-efb4-45cf-b977-db41bed21271" alt="image2" width="1090" />
 4. Tải xuống và cài đặt bình thường. 
-![alt text](image-2.png)
-![alt text](image-3.png)
+   <img src="https://github.com/user-attachments/assets/6bf4bb1a-c9bb-44fd-938d-b635a6733965" alt="image3" width="430">
 ### 2.2 Sử dụng Visual Studio Code
 
 * **Mở VS Code.**
