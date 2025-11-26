@@ -81,7 +81,7 @@
 ### 2.3 Tạo tài khoản GitHub
    <img src="https://github.com/user-attachments/assets/da2d51a2-a55d-47d9-a9f5-d6cc643b8870" alt="image7" width="1905">
 1. Vào trang chủ GitHub. 
-   
+   <img src="https://github.com/user-attachments/assets/d6d22710-ce68-4a7c-ad50-a5da2c580c06" alt="image8" width="749">
 2. Đăng ký tài khoản.
    
 3. Xác minh email.
