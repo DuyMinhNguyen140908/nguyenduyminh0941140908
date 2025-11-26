@@ -189,11 +189,11 @@
 * **B1:** Làm như hình.
     <img src="https://github.com/user-attachments/assets/98e3632e-4f33-4dc5-bd56-e2a66753cf8b" alt="image18" width="1178">
 * **B2:** Đặt tên tùy ý.
-![alt text](image-12.png)
+    <img src="https://github.com/user-attachments/assets/a00f5d41-d182-4b61-a729-6efd56ad509d" alt="image19" width="1180">
 * **B3:** Bấm **“Commit”**.
-![alt text](image-13.png)
+    <img src="https://github.com/user-attachments/assets/2493a73e-b16e-4bef-9391-d43d5278577f" alt="image20" width="1180">
 * **B4:** Bấm **“Sync Changes”**.
-![alt text](image-14.png)
+    <img src="https://github.com/user-attachments/assets/e72bf68a-bc09-4591-b90f-79338d1330f1" alt="image21" width="1183">
 
 ---
 
