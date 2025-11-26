@@ -187,24 +187,24 @@
 ## 5. Tải từ VSCode lên GitHub
 
 * **B1:** Làm như hình.
-    <img src="https://github.com/user-attachments/assets/98e3632e-4f33-4dc5-bd56-e2a66753cf8b" alt="image18" width="1178">
+    <img src="https://github.com/user-attachments/assets/98e3632e-4f33-4dc5-bd56-e2a66753cf8b" alt="image12" width="1178">
 * **B2:** Đặt tên tùy ý.
-    <img src="https://github.com/user-attachments/assets/a00f5d41-d182-4b61-a729-6efd56ad509d" alt="image19" width="1180">
+    <img src="https://github.com/user-attachments/assets/a00f5d41-d182-4b61-a729-6efd56ad509d" alt="image13" width="1180">
 * **B3:** Bấm **“Commit”**.
-    <img src="https://github.com/user-attachments/assets/2493a73e-b16e-4bef-9391-d43d5278577f" alt="image20" width="1180">
+    <img src="https://github.com/user-attachments/assets/2493a73e-b16e-4bef-9391-d43d5278577f" alt="image14" width="1180">
 * **B4:** Bấm **“Sync Changes”**.
-    <img src="https://github.com/user-attachments/assets/e72bf68a-bc09-4591-b90f-79338d1330f1" alt="image21" width="1183">
+    <img src="https://github.com/user-attachments/assets/e72bf68a-bc09-4591-b90f-79338d1330f1" alt="image15" width="1183">
 
 ---
 
 ## 6. Tải từ GitHub về VSCode
 
 * **B1:** Bấm **“Clone Repository”**.
-    <img src="https://github.com/user-attachments/assets/89fd3a70-7d35-40da-9099-80b9f855404c" alt="image22" width="1182">
+    <img src="https://github.com/user-attachments/assets/89fd3a70-7d35-40da-9099-80b9f855404c" alt="image16" width="1182">
 * **B2:** Sao chép URL của repository chứa file cần tải về máy.
-    <img src="https://github.com/user-attachments/assets/607b85e7-3474-4266-a77b-74e3dbe526a0" alt="image23" width="1348">
+    <img src="https://github.com/user-attachments/assets/607b85e7-3474-4266-a77b-74e3dbe526a0" alt="image17" width="1348">
 * **B3:** Nhập URL đã sao chép.
-    <img src="https://github.com/user-attachments/assets/d01968c7-056f-4e76-8f10-9e2913e4cb15" alt="image24" width="1189">
+    <img src="https://github.com/user-attachments/assets/d01968c7-056f-4e76-8f10-9e2913e4cb15" alt="image18" width="1189">
 * **B4:** Chọn nơi lưu trữ khi tải về và bắt đầu tải.
 
 ### Lưu ý:
@@ -212,9 +212,9 @@
 * Nếu repository không phải của mình thì nên **“Fork”** trước khi tải về máy.
 * **Các bước Fork như sau:**
     * **B1:** Bấm **“Fork”**.
-    <img src="https://github.com/user-attachments/assets/03ef901e-79eb-403f-b5ca-aa40179eb58e" alt="image25" width="1336">
+        <img src="https://github.com/user-attachments/assets/03ef901e-79eb-403f-b5ca-aa40179eb58e" alt="image19" width="1336">
     * **B2:** Đặt tên và bấm **“Create fork”**.
-    <img src="https://github.com/user-attachments/assets/38cc7b70-3461-4c4c-94ac-a1ca41db80b6" alt="image26" width="833">
+        <img src="https://github.com/user-attachments/assets/38cc7b70-3461-4c4c-94ac-a1ca41db80b6" alt="image20" width="833">
 ---
 
 ## 7. Cách tạo và tham gia vào dự án mã nguồn mở
@@ -222,21 +222,21 @@
 ### 7.1. Cách tạo
 
 * **B1 & B2:** Bấm vào dấu **`+`** trên thanh công cụ và Chọn **“New repository”**.
-![alt text](image-20.png)
+    <img src="https://github.com/user-attachments/assets/5c838415-b6b7-4356-83ff-302e079d7b2a" alt="image21" width="1365">
 * **B3:** Đặt tên và nhập mô tả.
-![alt text](image-21.png)
+    <img src="https://github.com/user-attachments/assets/98647022-8d72-4588-a003-cd6132902072" alt="image22" width="1363">
 * **B4:** Chọn chế độ **“Public”**.
 * **B5:** Bấm **“Create repository”**.
-![alt text](image-22.png)
+    <img src="https://github.com/user-attachments/assets/c12b1d4e-f9e5-450f-b343-76bc3b74feba" alt="image23" width="1363">
 
 ### 7.2. Cách tham gia
 
 * **B1:** **Fork** repository muốn tham gia và thực hiện những chỉnh sửa mong muốn.
 * **B2:** Bấm vào **“Pull request”**.
-![alt text](image-23.png)
+    <img src="https://github.com/user-attachments/assets/0df1842e-cbf0-4651-b14e-ca277645a49c" alt="image24" width="1365">
 * **B3:** Bấm **“New pull request”**.
-![alt text](image-24.png)
+    <img src="https://github.com/user-attachments/assets/590d5937-d612-4a50-8687-f2c914998199" alt="image25" width="1363">
 * **B4:** Bấm **“Create pull request”** để so sánh thay đổi.
-![alt text](image-25.png)
+    <img src="https://github.com/user-attachments/assets/58786d08-326f-41c5-b0de-9265ab54b084" alt="image26" width="1363">
 * **B5:** Đặt tên cho phần `title` và bấm **“Create pull request”** để gửi yêu cầu đóng góp.
-![alt text](image-26.png)
+    <img src="https://github.com/user-attachments/assets/c89dbb0f-7c8a-47d7-8c04-2667deb51c3c" alt="image27" width="1359">
